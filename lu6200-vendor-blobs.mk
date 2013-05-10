@@ -111,7 +111,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	vendor/lge/lu6200/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
 	vendor/lge/lu6200/proprietary/bin/atd:system/bin/atd \
-	vendor/lge/vs920/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
+	vendor/lge/lu6200/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/lge/lu6200/proprietary/bin/qem:system/bin/qem
 
 # NFC
